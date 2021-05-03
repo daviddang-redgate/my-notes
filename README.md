@@ -1,7 +1,7 @@
 # Onboarding Notes
 Hope this will help any new hires coming on with the role.
 
-*Note: Please feel free to fork this page or clone it onto your Git repository.*
+***NOTE: Please feel free to fork this page or clone it onto your Git repository.***
 
 ***I highly recommend to start taking notes on Github, this will improve your understanding of Git as a whole while being able to jot down some important stuff.***
 
