@@ -1,13 +1,19 @@
 # Useful Info
 Here you will find information that I think will be useful to succeed at this role. 
 
-[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/)
+:rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:
 
-## AWS Intro
+## AWS/Azure Intro
+AWS is one of the most popular cloud platforms. Knowledge in AWS and Azure will defintely help you out when coming across tickets as companies are moving towards cloud.
 
+You should have been given access to AWS and Azure. If not, reach out to the [CORE TEAM](https://coreservices.red-gate.com/hc/en-gb). I believe IT Ops or COREDev can help with that.
+
+You can check out each portal below (:bookmark:bookmark them!):
+- [AWS Portal](https://redgate.awsapps.com/start/#/)
+- [Azure Portal](https://portal.azure.com/#home)
 
 ## Useful Certifications
-I recommend going after certifications as it will help provide you with the foundational knowledge to succeed.
+:books: I recommend going after certifications as it will help provide you with the foundational knowledge to succeed. :books:
 
 1. [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - **Beginner**
 2. [Azure Fundamentals AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) - **Beginner**
