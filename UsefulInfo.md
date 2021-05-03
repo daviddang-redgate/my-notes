@@ -1,4 +1,7 @@
 # Useful Info
+Here you will find information that I think will be useful to succeed at this role. 
+
+[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/)
 
 ## AWS Intro
 
