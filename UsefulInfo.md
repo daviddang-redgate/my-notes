@@ -1,7 +1,12 @@
 # Useful Info
 Here you will find information that I think will be useful to succeed at this role. 
 
-:rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:
+:rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:\
+
+Table-of-Contents:
+1. [AWS/Azure Intro]()
+2. [Basic Git Commands]()
+3. [Useful Certifications]()
 
 ## AWS/Azure Intro
 AWS is one of the most popular cloud platforms. Knowledge in AWS and Azure will defintely help you out when coming across tickets as companies are moving towards cloud.
