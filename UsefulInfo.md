@@ -6,9 +6,9 @@ Here you will find information that I think will be useful to succeed at this ro
 ## AWS/Azure Intro
 AWS is one of the most popular cloud platforms. Knowledge in AWS and Azure will defintely help you out when coming across tickets as companies are moving towards cloud.
 
-You should have been given access to AWS and Azure. If not, reach out to the [CORE TEAM](https://coreservices.red-gate.com/hc/en-gb). I believe IT Ops or COREDev can help with that.
+You should have been given access to AWS and Azure. If not, reach out and open a ticket with the [CORE TEAM](https://coreservices.red-gate.com/hc/en-gb). I believe **IT Ops** or **COREDev** can help provisioning access for you.
 
-You can check out each portal below (:bookmark:bookmark them!):
+You can check out the AWS or Azure portal below (:bookmark:bookmark them!):
 - [AWS Portal](https://redgate.awsapps.com/start/#/)
 - [Azure Portal](https://portal.azure.com/#home)
 
