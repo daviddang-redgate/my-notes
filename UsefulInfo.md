@@ -20,6 +20,8 @@ You can check out the AWS or Azure portal below (:bookmark:bookmark them!):
 3. [AWS Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) - **Intermediate**
 4. EXPLORE YOUR OWN CERTS! The ones mentioned above are certifications that I found useful. Keep in mind that there are a bunch of others certifications. For example, there are certifications for MS SQL Server and other cloud platforms or tools.
 
-Notes: 
-- I recommend that you use online resources, such as YouTube or Udemy.
-- Once you've completed the course on YouTube or Udemy, you can use practice test banks to familiarize yourself with questions that will be asked.
+How To Tackle Certifications While Working Full-Time?! No Problem :ok_hand:: 
+- Set aside 1-2 hours each day to study.
+- I recommend that you use online courses to start off, such as YouTube or Udemy.
+- Once you've completed the course on YouTube or Udemy, you can use practice test/test dumps to familiarize yourself with questions that will be asked.
+- [ExamTopics](https://www.examtopics.com/) is a really useful test dump. Make sure to read comments since not all answers are correct.
