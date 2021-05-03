@@ -4,9 +4,9 @@ Here you will find information that I think will be useful to succeed at this ro
 :rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:\
 
 Table-of-Contents:
-1. [AWS/Azure Intro]()
+1. [AWS/Azure Intro](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
 2. [Basic Git Commands]()
-3. [Useful Certifications]()
+3. [Useful Certifications](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
 
 ## AWS/Azure Intro
 AWS is one of the most popular cloud platforms. Knowledge in AWS and Azure will defintely help you out when coming across tickets as companies are moving towards cloud.
