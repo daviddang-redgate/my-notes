@@ -12,18 +12,5 @@ Onboard Checklist:
 - [ ] Reach out to team if you have any questions
 
 I've split the notes into two sections:
-1. Useful Info
-2. Redgate Tools
-
-
-## Useful Info
-- AWS Intro
-- Recommended Certifications (to help expand knowledge and overall development)
-- 
-
-## Redgate Tools
-- SQL Monitor
-- SQL Change Automation
-- SQL Compare / Data Compare
-- SQL Prompt
-- 
+1. [Useful Info](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#useful-info)
+2. [Redgate Tools](https://github.com/daviddang-redgate/my-notes/blob/main/RedgateTools.md)
