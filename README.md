@@ -13,7 +13,7 @@ Hope this will help any new hires coming on with the role.
 - [ ] Go through Zendesk and familiarize yourself with the tickets and queue
 - [ ] Reach out to team if you have any questions
 
-## Sections
-I've split the notes into two sections:
+## SECTIONS:
+I've split the notes into two sections below:
 1. [Useful Info](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#useful-info)
 2. [Redgate Tools](https://github.com/daviddang-redgate/my-notes/blob/main/RedgateTools.md)
