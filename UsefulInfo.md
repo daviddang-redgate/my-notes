@@ -1,7 +1,7 @@
 # Useful Info
 Here you will find information that I think will be useful to succeed at this role. 
 
-:rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:\
+:rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:
 
 ## Table-of-Contents:
 1. [AWS/Azure Intro](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
