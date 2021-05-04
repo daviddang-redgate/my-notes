@@ -1,4 +1,4 @@
-# Onboarding Notes
+# Introduction
 Hope this will help any new hires coming on with the role.
 
 ***NOTE: Please feel free to fork this page or clone it onto your Git repository.***
