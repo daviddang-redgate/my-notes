@@ -3,7 +3,7 @@ Here you will find information that I think will be useful to succeed at this ro
 
 :rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:\
 
-Table-of-Contents:
+# Table-of-Contents:
 1. [AWS/Azure Intro](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
 2. [Basic Git Commands]()
 3. [Useful Certifications](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
@@ -16,6 +16,46 @@ You should have been given access to AWS and Azure. If not, reach out and open a
 You can check out the AWS or Azure portal below (:bookmark:bookmark them!):
 - [AWS Portal](https://redgate.awsapps.com/start/#/)
 - [Azure Portal](https://portal.azure.com/#home)
+
+## Basic Git Commands
+- Tell Git who you are
+```
+git config --global user.name "Sam Smith"
+git config --global user.email sam@example.com
+```
+- Create a new local repo
+```
+git init
+```
+- Check out/Clone a repo
+```
+git clone /path/to/repository
+```
+- Add/Stage files to commit
+```
+git add <filename>
+git add *
+```
+- Commit changes
+```
+git commit -m "Commit message"
+```
+- Push changes to main (or master - replace main w/ master in code) branch
+```
+git push origin main
+```
+- Check out status of the local repo
+```
+git status
+```
+- View all remote repos
+```
+git remote -v
+```
+- Checkout a branch and switch to it
+```
+git checkout -b <branchname>
+```
 
 ## Useful Certifications
 :books: I recommend going after certifications as it will help provide you with the foundational knowledge to succeed. :books:
