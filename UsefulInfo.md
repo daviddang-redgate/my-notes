@@ -3,7 +3,7 @@ Here you will find information that I think will be useful to succeed at this ro
 
 :rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:\
 
-# Table-of-Contents:
+## Table-of-Contents:
 1. [AWS/Azure Intro](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
 2. [Basic Git Commands](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#basic-git-commands)
 3. [Useful Certifications](https://github.com/daviddang-redgate/my-notes/blob/main/UsefulInfo.md#awsazure-intro)
