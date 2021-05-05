@@ -2,14 +2,15 @@
 
 We have a lot of tools at Redgate so it might be overwhelming at first. I recommend to work with a single tool to get used to the type of tickets then move on to the next once you've hit a good comfort level.
 
+I recommend reading through the documentage page to get an understanding of the different tools. 
+
+I highly recommend to download and try interfacing the tool (this goes a long way when trying to understand the tool). 
+- [Documentation Page](https://documentation.red-gate.com/home)
+- [Downloads Directory](https://download.red-gate.com/)
+
 :rewind:[GO BACK TO ROOT DIRECTORY](https://github.com/daviddang-redgate/my-notes/):rewind:
 
-Tools:
-- SQL Monitor
-- SQL Change Automation
-- SQL Compare / Data Compare
-- SQL Prompt
-- 
+---
 
 ## SQL Monitor
 - Enable enhanved logging for 10 minutes. Run the following in the URL:
@@ -106,15 +107,24 @@ Tools:
 - Correlated Deadlocks Explanation (Alex)
   For correlated deadlocks, there can be deadlocks raised when threads are merged back into the main thread of the sql process that is doing something in parallel and that can raise deadlocks at times that may seem related. Otherwise it's usually a blocking chain that is happening (x blocks y, y blocks z, z blocks a) and the lead blocker needs to unblock to free up the entire chain.
 
+---
 
 ## SQL Change Automation
+- SQL Change Automation is a beast if you have not worked with any CI/CD.
+- I recommend following the documentation on creating your on Build and Release pipeline.
+- 
+---
 
 ## SQL Source Control
 - **Slowness while navigating in Object Explorer:** SQL Source Control Options - SQL Source Control tab > Options > Uncheck the options (particularly try the "Indicate changed objects in the Object Explorer...." option)
 
+---
+
 ## SQL Prompt
 - **Issues on startup:** SQL Prompt's Tab History - SQL Prompt > Options > Tabs > History > Disable Tab history
 - **Slowness while working in the query editor:** SQL Prompt's Suggestions and/or Code Analysis - SQL Prompt > Uncheck "Enable Suggestions"/"Enable Code Analysis"
+
+---
 
 ## General Notes
 - Always try to have customer provide "Verbose" or "Debug" logging/log files (this provides more details/logging of events to help with troubleshoot)
